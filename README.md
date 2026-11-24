@@ -23,7 +23,7 @@ It serves two goals:
 | Providers | OpenAI, Anthropic, xAI. OpenRouter and Ollama for experiments |
 | Model choice | Code asks for a role (fast, strong, embedding, judge); config maps each role to a model, chosen by testing on my own cases |
 | Cost | Token usage and cost logged on every call; prices kept in config with the date checked |
-| Deployment | Vercel (details to be settled) |
+| Deployment | None. Runs locally; Vercel is reserved for portfolio projects |
 
 ## Repo layout (planned)
 
